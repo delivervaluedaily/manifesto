@@ -22,7 +22,7 @@ You will acheive value daily 😉
 
 Following this one principle will result in adhering to lot of the 12 principles - at least, the ones that are important in your case.
 
-#### But... what about refactoring/tech debt/anything else that isn't _directly_ acheive value today?
+#### But... what about refactoring/addressing tech debt/anything else that isn't _directly_ acheiving value today?
 
 You can! But just not whole days at a time. By following the principle you will balance value today with investing for more value tomorrow.
 
