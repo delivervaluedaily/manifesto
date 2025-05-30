@@ -4,15 +4,15 @@ A one-principle Agile manifesto for software development
 
 #### Why?
 
-By adhering to the principle:
+Following this one principle means...
 
-You will get an understand of what _value_ means for your organisation or team<br>
-You will put things into place things to _acheive_ that value<br>
+You will need to get an understand of what _value_ means for your organisation or team<br>
+You will need to put things into place things to _acheive_ that value<br>
 You will get _daily_ feedback validating your assumptions
 
 And of course...
 
-You will acheive daily value
+You will acheive value daily 😉
 
 #### How?
 
