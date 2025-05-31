@@ -18,11 +18,11 @@ jobs:
       with:
         python-version: '3.12'
     - name: Install dependencies
-      run: pip install Markdown==3.8
+      run: pip install jinja2-cli==0.8.2 Markdown==3.8
     - name: Build site
       run: |
         mkdir _site/
-        python -m markdown README.md > _site/index.html
+        jinja2 -D content="$(python -m markdown README.md)" .github/workflows/index.jinja2 > _site/index.html
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
 
