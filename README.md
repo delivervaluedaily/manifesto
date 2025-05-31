@@ -30,4 +30,4 @@ You can! But just not whole days at a time. By following the principle you will 
 
 #### But... we work in two-week Sprints and I can't change that?
 
-Do what you can to split out the smallest _valuable_ parts of remaining tasks, and get them as close as possible to releasable that you have the power to do every single day.
+Do what you can to split out the smallest _valuable_ parts of remaining tasks, and get them as close as possible to releasable that you have the power to do every single day. Be the change you want to see.
