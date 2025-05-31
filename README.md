@@ -16,7 +16,9 @@ You will achieve value daily 😉
 
 #### How?
 
-...
+The single most important technique is to choose something _smaller_ than what is assumed to be needed, and do whatever it takes to get that useable by some real users. Often it will be _much_ smaller, and ideally something that would even take much less than a day so you limit the risk of not completing it within a day.
+
+See below for more specific techniques to keep in your mental toolbox (TODO).
 
 #### But... what about the 12 principles of https://agilemanifesto.org/?
 
