@@ -22,7 +22,7 @@ See below for more specific techniques to keep in your mental toolbox (TODO).
 
 #### But... what about the 12 principles of https://agilemanifesto.org/?
 
-Following this one principle will result in adhering to lot of the 12 principles - at least, the ones that are important in your case.
+Following this one principle will result in adhering to many of the 12 principles - especially the ones that are important in your case.
 
 #### But... what about refactoring/addressing tech debt/anything else that isn't _directly_ achieving value today?
 
