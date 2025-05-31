@@ -18,7 +18,7 @@ You will achieve value daily 😉
 
 The single most important technique is to choose something _smaller_ than what is assumed to be needed, and do whatever it takes to get that useable by some real users by the end of the day. Often it will be _much_ smaller, and ideally something that would even take much less than a day so you limit the risk of not completing it within the day, and you increase the chance of achieving value multiple times in the day. To make this choice, you often need to be close to users - for example in direct contact with them. This itself requires a certain level of confidence - do what it takes to develop this if you think you're low.
 
-#### But... what about the 12 principles of https://agilemanifesto.org/?
+#### But... what about the 12 principles of [https://agilemanifesto.org/](https://agilemanifesto.org/)?
 
 Following this one principle will result in adhering to many of the 12 principles - especially the ones that are important in your case.
 
