@@ -18,7 +18,7 @@ You will achieve value daily 😉
 
 ...
 
-#### But... what about the 12 principles https://agilemanifesto.org/?
+#### But... what about the 12 principles of https://agilemanifesto.org/?
 
 Following this one principle will result in adhering to lot of the 12 principles - at least, the ones that are important in your case.
 
