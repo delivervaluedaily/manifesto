@@ -16,7 +16,7 @@ You will achieve value daily 😉
 
 #### How?
 
-The single most important technique is to choose something _smaller_ than what is assumed to be needed, and do whatever it takes to get that useable by some real users by the end of the day. Often it will be _much_ smaller, and ideally something that would even take much less than a day so you limit the risk of not completing it within the day, and your increase the chance of acheiving value multiple times a day. To make this choice, you often need to be close to users - for example in direct contact with them.
+The single most important technique is to choose something _smaller_ than what is assumed to be needed, and do whatever it takes to get that useable by some real users by the end of the day. Often it will be _much_ smaller, and ideally something that would even take much less than a day so you limit the risk of not completing it within the day, and you increase the chance of acheiving value multiple times in the day. To make this choice, you often need to be close to users - for example in direct contact with them.
 
 See below for more specific techniques to keep in your mental toolbox (TODO).
 
