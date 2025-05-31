@@ -6,7 +6,7 @@ A one-principle Agile manifesto for software development
 
 Following this one principle means...
 
-You will need to get an understanding of what _value_ means for your organisation or team<br>
+You will need to maintain an understanding of what _value_ means for your organisation or team<br>
 You will need to put things into place things to _achieve_ that value<br>
 You will get _daily_ feedback validating your assumptions
 
