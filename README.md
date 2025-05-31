@@ -1,4 +1,4 @@
-# "Acheive value daily"
+# "Achieve value daily"
 
 A one-principle Agile manifesto for software development
 
@@ -7,12 +7,12 @@ A one-principle Agile manifesto for software development
 Following this one principle means...
 
 You will need to get an understand of what _value_ means for your organisation or team<br>
-You will need to put things into place things to _acheive_ that value<br>
+You will need to put things into place things to _achieve_ that value<br>
 You will get _daily_ feedback validating your assumptions
 
 And of course...
 
-You will acheive value daily 😉
+You will achieve value daily 😉
 
 #### How?
 
@@ -22,7 +22,7 @@ You will acheive value daily 😉
 
 Following this one principle will result in adhering to lot of the 12 principles - at least, the ones that are important in your case.
 
-#### But... what about refactoring/addressing tech debt/anything else that isn't _directly_ acheiving value today?
+#### But... what about refactoring/addressing tech debt/anything else that isn't _directly_ achieving value today?
 
 You can! But just not whole days at a time. By following the principle you will balance value today with investing for more value tomorrow.
 
