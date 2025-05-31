@@ -1,6 +1,6 @@
 # "Achieve value daily"
 
-A one-principle Agile manifesto for software development
+A one-principle manifesto for agile software development
 
 #### Why?
 
