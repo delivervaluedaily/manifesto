@@ -31,3 +31,9 @@ You can! But just not whole days at a time. By following the principle you will 
 #### But... we work in two-week Sprints and I can't change that?
 
 Do what you can to split out the smallest _valuable_ parts of remaining tasks, and get them as close as possible to releasable that you have the power to do every single day. Be the change you want to see.
+
+#### But... I'm sure everything that is valuable will take more than a day
+
+If you _really_ can't work out a smaller bit of work, look to the _why_ above - is there anything that can give you feedback, a better understanding of value, or set you up for acheiving value daily later on that you _can_ get done today?
+
+It happens, but do whatever you can to make it so this is rare.
