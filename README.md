@@ -28,7 +28,7 @@ Following this one principle will result in adhering to many of the 12 principle
 
 You can do other tasks that don't directly result in value, but just not whole days at a time - at least _some_ time of each day should achieve value. By following the principle you will balance achieving value today with investing for more value tomorrow.
 
-Do not refector or address "tech debt" without a clear idea of how it leads to value. And of course, if something repeatedly doesn't lead to value, you should consider not doing it.
+Do not refactor or address "tech debt" without a clear idea of how it leads to value. And of course, if something repeatedly doesn't lead to value, you should consider not doing it.
 
 #### But... we work in two-week Sprints and I can't change that?
 
