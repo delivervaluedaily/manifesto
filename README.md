@@ -34,7 +34,7 @@ Of course, if something repeatedly doesn't result in value, you should consider 
 
 Do what you can to split out the smallest _valuable_ parts of remaining tasks, and get them as close as possible to releasable that you have the power to do every single day. Be the change you want to see.
 
-#### But... I'm sure everything that is valuable will take more than a day
+#### But... I'm sure everything that's valuable will take more than a day
 
 If you _really_ can't work out a smaller bit of work, look to the _why_ above - is there anything that can give you feedback, a better understanding of value, or set you up for acheiving value daily later on that you _can_ get done today?
 
