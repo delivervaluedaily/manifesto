@@ -24,9 +24,11 @@ To make this choice, you often need to be close to users - for example in direct
 
 Following this one principle will result in adhering to many of the 12 principles - especially the ones that are important in your case.
 
-#### But... what about refactoring/addressing tech debt/anything else that isn't _directly_ achieving value today?
+#### But... what about anything that isn't _directly_ achieving value today?
 
-You can! But just not whole days at a time. By following the principle you will balance achieving value today with investing for more value tomorrow.
+You can still refactor, address tech debt, or do any of the other tasks that don't directly result in value. But just not whole days at a time - at least _some_ time of each day should achieve value. By following the principle you will balance achieving value today with investing for more value tomorrow.
+
+Of course, if something repeatedly doesn't result in value, you should consider not doing it.
 
 #### But... we work in two-week Sprints and I can't change that?
 
