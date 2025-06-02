@@ -22,7 +22,7 @@ jobs:
     - name: Build site
       run: |
         mkdir _site/
-        jinja2 -D content="$(python -m markdown README.md)" -D updated="$(git log -1 --pretty="format:%cD" README.md)" .github/workflows/index.jinja2 > _site/index.html
+        jinja2 -D content="$(python -m markdown README.md)" -D updated="$(git log -1 --pretty="format:%cD" -- README.md)" .github/workflows/index.jinja2 > _site/index.html
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
 
