@@ -36,6 +36,6 @@ Do what you can to split out the smallest _valuable_ parts of remaining tasks, a
 
 #### But... I'm sure everything that's valuable will take more than a day
 
-If you _really_ can't work out a smaller bit of work, look to the _why_ above - is there anything that can give you feedback, a better understanding of value, or set you up for acheiving value daily later on that you _can_ get done today?
+If you _really_ can't extract a small enough amount of work, look to the _why_ above - is there anything that can give you feedback, a better understanding of value, or set you up for acheiving value daily later on that you _can_ get done today?
 
 It happens, but do whatever you can to make it so this is rare.
