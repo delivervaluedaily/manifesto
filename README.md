@@ -12,7 +12,7 @@ You will get _daily_ feedback validating your assumptions
 
 And of course:
 
-You will deliver value daily 😉
+You will deliver value daily 😀
 
 ## How?
 
