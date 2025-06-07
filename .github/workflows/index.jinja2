@@ -412,9 +412,6 @@
         border-bottom: 2px solid #fabb02;
         padding: 10px;
       }
-      li::first-letter {
-        margin-right: 0.2em;
-      }
       h1 + p {
         text-align: center;
         margin-bottom: 30px;
@@ -465,5 +462,35 @@
         <a href="https://discord.gg/TMt4SjXK">Discord server for "Deliver value daily"</a>
       </p>
     </footer>
+    <script>
+      // Sets the (negative) text indent on list items to be exactly equal to the first "word" and
+      // the following space, along with corresponding padding on the list item. This can't be done
+      // in CSS up front (at least, not easily) because the first word is an emoji, and different
+      // browsers render these differently, e.g. Safari and Chrome.
+      //
+      // Not the most robust thing, e.g. if there child HTML elements won't work
+      (() => {
+        const init = () => {
+          const lis = Array.from(document.getElementsByTagName('li'));
+
+          const setIndent = () => {
+            lis.forEach((li) => {
+              const range = document.createRange();
+              const lenLeadingWord = li.childNodes[0].nodeValue.match(/^\S+\s+/)[0].length;
+              range.setStart(li.childNodes[0], 0);
+              range.setEnd(li.childNodes[0], lenLeadingWord);
+              const width = range.getBoundingClientRect().width;
+              li.style.textIndent = -1 * width + 'px';
+              li.style.paddingLeft = width + 'px';
+            });
+          }
+
+          setIndent();
+          window.addEventListener("resize", setIndent);
+        }
+
+        document.addEventListener("DOMContentLoaded", init);
+      })();
+    </script>
   </body>
 </html>

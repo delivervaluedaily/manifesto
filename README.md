@@ -6,13 +6,17 @@ A one-principle manifesto for agile software development
 
 By following this one principle:
 
-- ✅ You will maintain an understanding of what _value_ means for your organisation or team<br>
-- ✅ You will put things into place things to _deliver_ that value<br>
-- ✅ You will get _daily_ feedback validating your assumptions
+<!-- The following deliberately has non-breaking space characters for slightly nicer spacing when
+	 rendered as web page. Also, indentation is tweaked in Javascript for nice alignment cross
+	 browser, but this is brittle to HTML structure, so be careful when making changes, and check
+	 that layout is nice, especially on mobile, and especially on Safari -->
+- ✅  You will maintain an understanding of what _value_ means for your organisation or team<br>
+- ✅  You will put things into place things to _deliver_ that value<br>
+- ✅  You will get _daily_ feedback validating your assumptions
 
 And of course:
 
-- 🏆 You will deliver value daily
+- 🏆  You will deliver value daily
 
 ## How?
 
