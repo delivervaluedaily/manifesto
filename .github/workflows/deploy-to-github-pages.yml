@@ -23,7 +23,7 @@ jobs:
     - name: Install dependencies
       run: |
         sudo apt install libfuse2
-        wget -O inkscape --retry-on-http-error=403 --retry-connrefused https://inkscape.org/gallery/item/56343/Inkscape-ebf0e94-x86_64.AppImage
+        wget -O inkscape --no-http-keep-alive --retry-on-http-error=403 --retry-connrefused https://inkscape.org/gallery/item/56343/Inkscape-ebf0e94-x86_64.AppImage
         chmod +x ./inkscape
         pip install jinja2-cli==0.8.2 Markdown==3.8
         wget https://github.com/wilsonzlin/minify-html/releases/download/v0.16.4/minhtml-0.16.4-x86_64-unknown-linux-gnu -O minhtml
