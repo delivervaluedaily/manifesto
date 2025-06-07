@@ -22,7 +22,7 @@ jobs:
         python-version: '3.12'
     - name: Install dependencies
       run: |
-        sudo snap install inkscape
+        wget -O inkscape https://inkscape.org/gallery/item/56343/Inkscape-ebf0e94-x86_64.AppImage
         pip install jinja2-cli==0.8.2 Markdown==3.8
         wget https://github.com/wilsonzlin/minify-html/releases/download/v0.16.4/minhtml-0.16.4-x86_64-unknown-linux-gnu -O minhtml
         chmod +x ./minhtml
@@ -32,7 +32,7 @@ jobs:
         jinja2 -D content="$(python -m markdown README.md)" -D updated="$(git log -1 --pretty='format:%cD' -- README.md)" .github/workflows/index.jinja2 | ./minhtml --minify-css > _site/index.html
     - name: Build opengraph image
       run: |
-        inkscape --export-area-page --export-width=1200 --export-height=630 --export-type=png --export-png-antialias=3 --export-filename="./_site/og.png" ./.github/workflows/og.svg
+        ./inkscape --export-area-page --export-width=1200 --export-height=630 --export-type=png --export-png-antialias=3 --export-filename="./_site/og.png" ./.github/workflows/og.svg
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
 
