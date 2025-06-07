@@ -22,8 +22,7 @@ jobs:
         python-version: '3.12'
     - name: Install dependencies
       run: |
-        sudo apt-get update
-        sudo apt-get install inkscape
+        sudo snap install inkscape
         pip install jinja2-cli==0.8.2 Markdown==3.8
         wget https://github.com/wilsonzlin/minify-html/releases/download/v0.16.4/minhtml-0.16.4-x86_64-unknown-linux-gnu -O minhtml
         chmod +x ./minhtml
