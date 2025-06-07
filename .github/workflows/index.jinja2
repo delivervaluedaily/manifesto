@@ -492,6 +492,32 @@
 
         document.addEventListener("DOMContentLoaded", init);
       })();
+
+      // On some browsers (Safari) the font weight on the h1 element, which is 900, doesn't work,
+      // and actually font weight of 700 is the boldest and roughly equivalent to 900 on Chrome
+      // So try setting it to 700, and see if that makes it bolder
+      (() => {
+        const makeH1Bolder = () => {
+          const h1 = document.getElementsByTagName('h1')[0];
+
+          const rangeOriginal = document.createRange();
+          rangeOriginal.setStart(h1.childNodes[0], 0);
+          rangeOriginal.setEnd(h1.childNodes[0], h1.childNodes[0].length);
+          const widthOriginal = rangeOriginal.getBoundingClientRect().width;
+          const weightOriginal = h1.style.fontWeight;
+
+          h1.style.fontWeight = 700;
+          const rangeNew = document.createRange();
+          rangeNew.setStart(h1.childNodes[0], 0);
+          rangeNew.setEnd(h1.childNodes[0], h1.childNodes[0].length);
+          const widthNew = rangeOriginal.getBoundingClientRect().width;
+          if (widthOriginal > widthNew) {
+            h1.style.fontWeight = weightOriginal;
+          }
+        }
+
+        document.addEventListener("DOMContentLoaded", makeH1Bolder);
+      })();
     </script>
   </body>
 </html>
