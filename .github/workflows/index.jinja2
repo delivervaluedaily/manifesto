@@ -397,7 +397,7 @@
       h2 {
         font-size: 22px;
         font-weight: 600;
-        margin-bottom: 5px;
+        margin-bottom: 7px;
         margin-top: 20px;
         line-height: 1.3;
       }
@@ -413,9 +413,15 @@
         border-bottom: 2px solid #fabb02;
         padding: 10px;
       }
-      li::first-letter {
-        font-size: 24px;
+      li {
+        line-height: 26px;
+        padding-top: .4em;
+        padding-bottom: .2em;
+      }
+      .li-emoji {
+        font-size: 26px;
         vertical-align: middle;
+        padding-right: .1em;
       }
       h1 + p {
         text-align: center;
@@ -478,13 +484,20 @@
         const init = () => {
           const lis = Array.from(document.getElementsByTagName('li'));
 
+          lis.forEach((li) => {
+              const text = li.childNodes[0].nodeValue
+              const lenLeadingWord = text.match(/^\S+\s+/)[0].length;
+              const leadingWord = text.substring(0, lenLeadingWord);
+              li.childNodes[0].nodeValue = text.substring(lenLeadingWord);
+              const span = document.createElement('span');
+              span.classList.add('li-emoji');
+              span.innerText = leadingWord;
+              li.prepend(span);
+          });
+
           const setIndent = () => {
             lis.forEach((li) => {
-              const range = document.createRange();
-              const lenLeadingWord = li.childNodes[0].nodeValue.match(/^\S+\s+/)[0].length;
-              range.setStart(li.childNodes[0], 0);
-              range.setEnd(li.childNodes[0], lenLeadingWord);
-              const width = range.getBoundingClientRect().width;
+              const width = li.childNodes[0].getBoundingClientRect().width;
               li.style.textIndent = -1 * width + 'px';
               li.style.paddingLeft = width + 'px';
             });
