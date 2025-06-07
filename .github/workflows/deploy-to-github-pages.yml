@@ -22,6 +22,7 @@ jobs:
         python-version: '3.12'
     - name: Install dependencies
       run: |
+        sudo apt install libfuse2
         wget -O inkscape https://inkscape.org/gallery/item/56343/Inkscape-ebf0e94-x86_64.AppImage
         chmod +x ./inkscape
         pip install jinja2-cli==0.8.2 Markdown==3.8
