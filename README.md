@@ -34,11 +34,11 @@ You can do other tasks that don't result in value today, but just not whole days
 
 Do not refactor or address "tech debt" without a clear idea of how it will lead to value, and merge and release such investment changes daily, just as you would any other. And of course, if something repeatedly doesn't lead to value, you should consider not doing it.
 
-## But... we work in two-week sprints and I can't change that?
+## But... we work in sprints and I can't change that?
 
 Do what you can to split out the smallest _valuable_ parts of remaining tasks, and get them as close as possible to releasable that you have the power to do every single day. Be the change you want to see.
 
-## But... I'm sure everything that's valuable will take more than a day
+## But... everything that's valuable will take more than a day
 
 If you _really_ can't extract a small enough amount of work, look to the _why_ above - is there anything that can give you feedback, a better understanding of value, or set you up for delivering value daily later on that you _can_ get done today?
 
