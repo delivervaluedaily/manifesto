@@ -6,13 +6,13 @@ A one-principle manifesto for agile software development
 
 Following this one principle means:
 
-✅ You will need to maintain an understanding of what _value_ means for your organisation or team<br>
-✅ You will need to put things into place things to _deliver_ that value<br>
-✅ You will get _daily_ feedback validating your assumptions
+- ✅ You will need to maintain an understanding of what _value_ means for your organisation or team<br>
+- ✅ You will need to put things into place things to _deliver_ that value<br>
+- ✅ You will get _daily_ feedback validating your assumptions
 
 And of course:
 
-🏆 You will deliver value daily
+- 🏆 You will deliver value daily
 
 ## How?
 
