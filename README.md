@@ -24,7 +24,7 @@ To make this choice, you often need to be close to users - for example in direct
 
 Following this one principle will result in adhering to many of the 12 principles - especially the ones that are important in your case.
 
-## But... what about anything that isn't delivering value _today_?
+## But... what about investing for the future?
 
 You can do other tasks that don't result in value today, but just not whole days at a time - at least _some_ time of each day your should deliver value by the end of the day. By following the principle you will balance delivering value today with investing for more value tomorrow.
 
