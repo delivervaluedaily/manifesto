@@ -4,10 +4,10 @@ A one-principle manifesto for agile software development
 
 ## Why?
 
-Following this one principle means:
+By following this one principle:
 
-- ✅ You will need to maintain an understanding of what _value_ means for your organisation or team<br>
-- ✅ You will need to put things into place things to _deliver_ that value<br>
+- ✅ You will maintain an understanding of what _value_ means for your organisation or team<br>
+- ✅ You will put things into place things to _deliver_ that value<br>
 - ✅ You will get _daily_ feedback validating your assumptions
 
 And of course:
