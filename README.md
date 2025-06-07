@@ -24,9 +24,9 @@ The single most important technique is to choose something _smaller_ than what i
 
 To make this choice, you often need to be close to users - for example in direct contact with them. It also requires a certain level of confidence - do what it takes to develop this if you think you're low.
 
-## But... what about the 12 principles of [https://agilemanifesto.org/](https://agilemanifesto.org/)?
+## But... what about [https://agilemanifesto.org/](https://agilemanifesto.org/)?
 
-Following this one principle will result in adhering to many of the 12 principles - especially the ones that are important in your case.
+Following this one principle will result in adhering to many of the 12 principles of the original Agile Manifesto - especially the principles that are important in your case.
 
 ## But... what about investing for the future?
 
