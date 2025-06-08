@@ -1,4 +1,4 @@
-# "Deliver value daily"
+# ➡️ "Deliver value daily" ⬅️
 
 A one-principle manifesto for agile software development
 
