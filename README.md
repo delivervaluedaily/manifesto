@@ -4,7 +4,7 @@ A one-principle manifesto for agile software development
 
 ## Why?
 
-By following this one principle:
+By delivering value daily:
 
 - ✅ You will maintain an understanding of what _value_ means for your users<br>
 - ✅ You will put things into place to _deliver_ that value<br>
