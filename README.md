@@ -8,7 +8,7 @@ By delivering value daily:
 
 - ✅ You will maintain an understanding of what _value_ means for your users<br>
 - ✅ You will put things into place to _deliver_ that value<br>
-- ✅ You will get _daily_ feedback validating your assumptions
+- ✅ You will receive _daily_ feedback validating your assumptions
 
 And of course:
 
