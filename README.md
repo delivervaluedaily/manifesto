@@ -66,9 +66,9 @@ You will probably build up your own project-specific suites of techniques to hel
 
 - 🗣 Speak to users every day
 - ↕️ Vertically slice larger pieces of work
-- 👥 Work in mobs or pairs rather than working on tasks individually
+- 👥 Work in mobs or pairs
 - 🚛 Maintain CI/CD pipelines
 - 📝 Maintain good ranges of tests
-- 🚩 Use feature flags to release to only specific users
-- 🔧 Don't automate manual steps in initial versions
+- 🚩 Use per-user feature flags
+- 🔧 Include manual steps in initial versions
 - 1️⃣ Deploy to production on day one
