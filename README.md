@@ -38,15 +38,15 @@ Do not refactor or address "tech debt" without a clear idea of how it will lead 
 
 ## But... does this risk reducing quality?
 
-- 🎩 Maintain quality by changing less
+- 🎩 Maintain quality by having small aims in terms of features
 
 No! This is not about cutting corners, this is about choosing the _smallest_ pieces of work that you can complete each day at the quality level you decide is appropriate in order to provide value.
 
 ## But... I won't be able to keep up by delivering every day
 
-- 🐌 Maintain velocity by aiming to do less
+- 🐌 Maintain velocity by aiming to do less each day
 
-Do not set out to complete features as asked for each day - this is impossible. Instead, set out to complete small parts of them, and don't be afraid of shrinking things even further as each day progresses.
+Do not set out to complete features as asked for each day - this is impossible. Instead, set out to complete small slices of them, and don't be afraid of shrinking things even further as each day progresses.
 
 ## But... we work in sprints and I can't change that?
 
