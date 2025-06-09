@@ -71,4 +71,4 @@ You will probably build up your own project-specific suites of techniques to hel
 - 📝 Maintain good ranges of tests
 - 🚩 Use per-user feature flags
 - 🔧 Include manual steps in initial versions
-- 1️⃣ Deploy to production on day one
+- 🏁 Deploy to production on day one
