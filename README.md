@@ -71,4 +71,4 @@ You will probably build up your own project-specific suites of techniques to hel
 - 📝 Maintain good ranges of tests
 - 🚩 Use feature flags to release to only specific users
 - 🔧 Don't automate manual steps in initial versions
-- 🥇 Make the production environment first
+- 1️⃣ Deploy to production on day one
