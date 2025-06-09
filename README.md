@@ -38,9 +38,9 @@ Do not refactor or address "tech debt" without a clear idea of how it will lead 
 
 ## But... does this risk reducing quality?
 
-- 🎩 Maintain quality by having small aims in terms of features
+- 🎩 Maintain standards by including time for quality
 
-No! This is not about cutting corners, this is about choosing the _smallest_ pieces of work that you can complete each day at the quality level you decide is appropriate in order to provide value.
+No! This is not about cutting corners, this is choosing the _smallest_ pieces of work you can complete in a day that provide value at the quality level you decide is appropriate.
 
 ## But... I won't be able to keep up by delivering every day
 
