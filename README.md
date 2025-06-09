@@ -24,7 +24,7 @@ To make this choice, you often need to be close to users - for example in direct
 
 ## But... what about [https://agilemanifesto.org/](https://agilemanifesto.org/)?
 
-- 🎯 Aiming for daily value will result following the 12 principles
+- 🚀 Aiming for daily value will result following the 12 principles
 
 Following this one principle will result in adhering to many of the 12 principles of the original Agile Manifesto - especially the principles that are important in your case.
 
@@ -71,4 +71,5 @@ You will probably build up your own project-specific suites of techniques to hel
 - 📝 Maintain good ranges of tests
 - 🚩 Use per-user feature flags
 - 🔧 Include manual steps in initial versions
+- 🎯 Make features for very specific cases
 - 🏁 Deploy to production on day one
