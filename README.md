@@ -56,6 +56,18 @@ Do what you can to split out the smallest _valuable_ parts of remaining tasks, a
 
 ## But... everything that's valuable will take more than a day
 
-- ⏭️ If you really can't deliver value today, set yourself up for value tomorrow
+- ⏩ If you really can't deliver value today, set yourself up for value tomorrow
 
 If you _really_ can't extract a small enough amount of work that's valuable today, is there anything that you can complete today that can set you up for delivering value tomorrow? Often something that gets feedback on your riskiest assumptions from users or technology is a good choice.
+
+## What other techniques can help deliver value every single day?
+
+You will probably build up your own project-specific suites of techniques to help you deliver value, but here's some to start off with:
+
+- 🗣 Speak to users every day
+- ↕️ Vertically slice larger pieces of work
+- 👥 Work in mobs or pairs rather than working on tasks individually
+- 🚛 Maintain CI/CD pipelines
+- 📝 Maintain good ranges of tests
+- 🚩 Use feature flags to release to only specific users
+- 🔧 Keep manual steps, especially in early versions
