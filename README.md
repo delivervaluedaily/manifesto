@@ -56,8 +56,6 @@ Do what you can to split out the smallest _valuable_ parts of remaining tasks, a
 
 ## But... everything that's valuable will take more than a day
 
-- 🔄 If you really can't deliver value, get feedback
+- ⏭️ If you really can't deliver value today, set yourself up for value tomorrow
 
-If you _really_ can't extract a small enough amount of work, look to the _why_ above - is there anything that can give you feedback, a better understanding of value, or set you up for delivering value daily later on that you _can_ get done today?
-
-It happens, but do whatever you can to make it so this is rare.
+If you _really_ can't extract a small enough amount of work that's valuable today, is there anything that you can complete today that can set you up for delivering value tomorrow? Often something that gets feedback on your riskiest assumptions from users or technology is a good choice.
