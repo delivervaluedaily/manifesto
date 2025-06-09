@@ -16,7 +16,7 @@ And of course:
 
 ## How?
 
-- 🔬 Extract smaller goals
+- 🔬 Extract smaller features
 
 The single most important technique is to choose something _smaller_ than what is assumed to be needed, and do whatever it takes to get that useable by some real users by the end of the day. Often it will be _much_ smaller, and ideally something that would even take much less than a day so you limit the risk of not completing it within the day, and you increase the chance of delivering value multiple times in the day.
 
