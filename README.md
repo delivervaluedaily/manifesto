@@ -70,7 +70,7 @@ You will probably build up your own project-specific suites of techniques to hel
 - 🚛 Maintain CI/CD pipelines
 - 📝 Maintain good ranges of tests
 - 🚩 Use per-user feature flags
-- 🔧 Preserve manual steps
+- 🔧 Don't automate everything initially
 - 🎯 Make features for very specific cases
 - 🏁 Deploy to production on day one
 - 🔀 Adapt plans if necessary to deliver value
