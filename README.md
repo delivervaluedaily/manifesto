@@ -42,7 +42,7 @@ Do not refactor or address "tech debt" without a clear idea of how it will lead 
 
 No! This is not about cutting corners, this is choosing the _smallest_ pieces of work you can complete in a day that provide value at the quality level you decide is appropriate.
 
-## But... I won't be able to keep up by delivering every day
+## But... I won't be able to keep up by delivering every day?
 
 - 🐌 Maintain velocity by aiming to complete only thin slices of features each day
 
@@ -54,7 +54,7 @@ Do not set out to complete features as asked for each day - this is impossible. 
 
 Do what you can to split out the smallest _valuable_ parts of remaining tasks, and get them as close as possible to releasable that you have the power to do every single day. Be the change you want to see.
 
-## But... everything that's valuable will take more than a day
+## But... everything that's valuable will take more than a day?
 
 - ⏩ If you really can't deliver value today, set yourself up for value tomorrow
 
