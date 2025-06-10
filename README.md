@@ -32,7 +32,7 @@ Following this one principle will result in adhering to many of the 12 principle
 
 - ⚖️ Balance value today with investing for tomorrow
 
-You can do other tasks that don't result in value today, but just not whole days at a time - at least _some_ time of each day your should deliver value by the end of the day. By following the principle you will balance delivering value today with investing for more value tomorrow.
+You can do other tasks that don't result in value today, but just not whole days at a time - at least _some_ of each day should be spent delivering value. By following the principle you will balance delivering value today with investing for more value tomorrow.
 
 Do not refactor or address "tech debt" without a clear idea of how it will lead to value, and merge and release such investment changes daily, just as you would any other. And of course, if something repeatedly doesn't lead to value, you should consider not doing it.
 
