@@ -73,5 +73,5 @@ You will probably build up your own project-specific suites of techniques to hel
 - 🔧 Don't automate everything initially
 - 🎯 Make features for very specific cases
 - 🏁 Deploy to production on day one
-- 🔀 Adapt plans if necessary to deliver value
+- 🔀 Adapt plans in order to deliver value
 - 🆘 Seek help quickly and frequently
