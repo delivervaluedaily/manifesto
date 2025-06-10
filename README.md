@@ -69,7 +69,7 @@ You will probably build up your own project-specific suites of techniques to hel
 - 👥 Work in mobs or pairs
 - 🚛 Maintain CI/CD pipelines
 - 📝 Maintain good ranges of tests
-- 🚩 Use per-user feature flags
+- 🚦 Limit initial features to specific users
 - ⚙️ Automate, but gradually
 - 🎯 Make features for very specific cases
 - 🏁 Deploy to production on day one
