@@ -75,4 +75,4 @@ You will probably build up your own project-specific suites of techniques to hel
 - 🏁 Deploy to production on day one
 - 🔀 Adapt plans in order to deliver value
 - 🆘 Seek help quickly and frequently
-- 🧠 Remember some value beats no value
+- 🧠 Remember: some value beats no value
