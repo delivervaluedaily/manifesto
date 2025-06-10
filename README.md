@@ -44,9 +44,9 @@ No! This is not about cutting corners, this is choosing the _smallest_ pieces of
 
 ## But... I won't be able to keep up by delivering every day
 
-- 🐌 Maintain velocity by aiming to do less each day
+- 🐌 Maintain velocity by aiming to complete only thin slices of features each day
 
-Do not set out to complete features as asked for each day - this is impossible. Instead, set out to complete small slices of them, and don't be afraid of shrinking things even further as each day progresses.
+Do not set out to complete features as asked for each day - this is impossible. Instead, set out to complete thin slices of them, and don't be afraid of shrinking things even further as each day progresses.
 
 ## But... we work in sprints and I can't change that?
 
