@@ -26,7 +26,7 @@ To make this choice, you often need to be close to users - for example in direct
 
 - 🧭 Aiming for daily value will result in following the 12 principles
 
-Following this one principle will result in adhering to the 12 principles of the original Agile Manifesto - especially the principles that deliver value in your case.
+Following this one principle will result in adhering to the 12 principles of the original Agile Manifesto - especially the principles that help deliver value in your case.
 
 ## But... what about investing for the future?
 
