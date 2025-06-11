@@ -24,7 +24,7 @@ To make this choice, you often need to be close to users - for example in direct
 
 ## But... what about [https://agilemanifesto.org/](https://agilemanifesto.org/)?
 
-- 🧭 Aiming for daily value will often result in following the 12 principles
+- 🧭 Aiming for daily value will result in following the 12 principles
 
 Following this one principle will result in adhering to many of the 12 principles of the original Agile Manifesto - especially the principles that deliver value in your case.
 
