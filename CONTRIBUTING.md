@@ -8,8 +8,8 @@ Particularly welcome are:
 
 - Additions of techniques to help deliver value daily
 - Changes that improve clarity, especially if they increase conciseness
-- Fixing of typos
 - Technical changes that optimise https://delivervaluedaily.dev/
+- Fixing of typos
 
 In most cases before raising a PR it's best to start a [GitHub issue](https://github.com/delivervaluedaily/manifesto/issues), or discussion in either [GitHub discussions](https://github.com/delivervaluedaily/manifesto/discussions) or the ["Deliver value daily" Discord server](https://discord.gg/Y5SvjeFnAF).
 
