@@ -17,7 +17,7 @@ In most cases before raising a PR it's best to start a [GitHub issue](https://gi
 
 The site at https://delivervaluedaily.dev/ is deliberately a single HTML page, with no external resources requested on load. There are no current plans to change this.
 
-See [./github/workflow/deploy-to-github-pages.yml](./github/workflow/deploy-to-github-pages.yml) for how the page is built - a form of this can be run locally.
+See [./github/workflows/deploy-to-github-pages.yml](./github/workflows/deploy-to-github-pages.yml) for how the page is built - a form of this can be run locally.
 
 ## Long-form content
 
