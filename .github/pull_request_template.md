@@ -1,6 +1,6 @@
 ## Description
 
-<!-- A summary of the changes, and ideally a link to a discussion or issue -->
+_Replace this text with a summary of the changes and ideally a link to a discussion or issue_
 
 ### Public domain dedication
 
