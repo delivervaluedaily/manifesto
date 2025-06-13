@@ -201,17 +201,6 @@
         const init = () => {
           const lis = Array.from(document.getElementsByTagName('li'));
 
-          lis.forEach((li) => {
-              const text = li.childNodes[0].nodeValue
-              const lenLeadingWord = text.match(/^\S+\s+/)[0].length;
-              const leadingWord = text.substring(0, lenLeadingWord);
-              li.childNodes[0].nodeValue = text.substring(lenLeadingWord);
-              const span = document.createElement('span');
-              span.classList.add('li-emoji');
-              span.innerText = leadingWord;
-              li.prepend(span);
-          });
-
           const setIndent = () => {
             // Fetch all bounding boxes before making changes to avoid many reflows
             const widths = lis.map((li) => {
