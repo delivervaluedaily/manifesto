@@ -213,10 +213,13 @@
           });
 
           const setIndent = () => {
-            lis.forEach((li) => {
-              const width = li.childNodes[0].getBoundingClientRect().width;
-              li.style.textIndent = -1 * width + 'px';
-              li.style.paddingLeft = width + 'px';
+            // Fetch all bounding boxes before making changes to avoid many reflows
+            const widths = lis.map((li) => {
+              return li.childNodes[0].getBoundingClientRect().width;
+            });
+            lis.forEach((li, i) => {
+              li.style.textIndent = -1 * widths[i] + 'px';
+              li.style.paddingLeft = widths[i] + 'px';
             });
           }
 
