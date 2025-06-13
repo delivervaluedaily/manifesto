@@ -1,7 +1,7 @@
-# Description
+## Description
 
 <!-- A summary of the changes, and ideally a link to a discussion or issue -->
 
-## Public domain dedication
+### Public domain dedication
 
 - [ ] I mark my contribution as [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), and I have the authority to do so.
