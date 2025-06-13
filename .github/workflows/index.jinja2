@@ -137,11 +137,15 @@
         line-height: 26px;
         padding-top: .4em;
         padding-bottom: .2em;
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
       }
       .li-emoji {
         font-size: 26px;
         vertical-align: middle;
-        padding-right: .1em;
+        margin-right: .35em;
+        padding-top: 1px;
       }
       h1 + p {
         text-align: center;
@@ -191,34 +195,6 @@
       </p>
     </footer>
     <script>
-      // Sets the (negative) text indent on list items to be exactly equal to the first "word" and
-      // the following space, along with corresponding padding on the list item. This can't be done
-      // in CSS up front (at least, not easily) because the first word is an emoji, and different
-      // browsers render these differently, e.g. Safari and Chrome.
-      //
-      // Not the most robust thing, e.g. if there child HTML elements won't work
-      (() => {
-        const init = () => {
-          const lis = Array.from(document.getElementsByTagName('li'));
-
-          const setIndent = () => {
-            // Fetch all bounding boxes before making changes to avoid many reflows
-            const widths = lis.map((li) => {
-              return li.childNodes[0].getBoundingClientRect().width;
-            });
-            lis.forEach((li, i) => {
-              li.style.textIndent = -1 * widths[i] + 'px';
-              li.style.paddingLeft = widths[i] + 'px';
-            });
-          }
-
-          setIndent();
-          window.addEventListener("resize", setIndent);
-        }
-
-        document.addEventListener("DOMContentLoaded", init);
-      })();
-
       // On some browsers (Safari) the font weight on the h1 element, which is 900, doesn't work,
       // and actually font weight of 700 is the boldest and roughly equivalent to 900 on Chrome
       // So try setting it to 700, and see if that makes it bolder
