@@ -46,7 +46,7 @@ No! This is not about cutting corners, this is choosing the _smallest_ pieces of
 
 - <span class="li-emoji">🐌</span> <span class="li-content">Maintain velocity by aiming to complete only thin slices of features</span>
 
-Do not set out to complete features as asked for each day - this is impossible. Instead, set out to complete thin slices of them, and don't be afraid of shrinking things even further as each day progresses.
+Do not set out to complete features as envisaged each day - this is impossible. Instead, set out to complete thin slices of them, and don't be afraid of shrinking things even further as each day progresses.
 
 ## But... we work in sprints and I can't change that?
 
