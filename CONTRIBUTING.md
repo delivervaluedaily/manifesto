@@ -23,7 +23,7 @@ If you have suggestions for links to longer form content, feel free to raise a [
 
 The site at https://delivervaluedaily.dev/ is deliberately a single HTML page, with no external resources (other than its Open Graph image, which must be a separate file).
 
-See [./.github/workflows/deploy-to-github-pages.yml](./.github/workflows/deploy-to-github-pages.yml) for how the page is built in GitHub Actions. The page can be built locally by either:
+See [.github/workflows/deploy-to-github-pages.yml](./.github/workflows/deploy-to-github-pages.yml) for how the page is built in GitHub Actions. The page can be built locally by either:
 
 - Copy and pasting individual lines into a terminal
 - Using [act](https://github.com/nektos/act), for example by `act --container-architecture linux/amd64 --job build --bind`
