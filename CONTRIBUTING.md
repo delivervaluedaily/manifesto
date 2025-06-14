@@ -28,7 +28,7 @@ See [.github/workflows/deploy-to-github-pages.yml](./.github/workflows/deploy-to
 - Copy and pasting individual lines into a terminal
 - Using [act](https://github.com/nektos/act), for example by `act --container-architecture linux/amd64 --job build --bind`
 
-The site is built into the `_site/` directory, and its `index.html` can be opened with a browser to view the site.
+The site is built into the `_site/` directory, and its `index.html` can be opened with a browser.
 
 ## Licensing of contributions
 
