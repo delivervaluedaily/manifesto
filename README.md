@@ -42,6 +42,12 @@ Do not refactor or address "tech debt" without a clear idea of how it will lead 
 
 No! This is not about cutting corners, this is choosing the _smallest_ pieces of work you can complete in a day that provide value at the quality level you decide is appropriate.
 
+## But... we work in sprints and I can't change that?
+
+- <span class="li-emoji">🫵🏻</span> <span class="li-content">Do what you can to get close to value</span>
+
+Do what you can to split out the smallest _valuable_ parts of remaining tasks, and get them as close as possible to releasable that you have the power to do every single day. Be the change you want to see.
+
 ## But... I won't be able to keep up by delivering every day?
 
 - <span class="li-emoji">🐌</span> <span class="li-content">Maintain velocity by aiming to complete only thin slices of features</span>
@@ -49,12 +55,6 @@ No! This is not about cutting corners, this is choosing the _smallest_ pieces of
 Do not set out to complete features as envisaged each day - this is impossible. Instead, set out to complete thin slices of them, and don't be afraid of shrinking things even further as each day progresses.
 
 This is effectively the opposite of Scrum's committment to achieving fixed sprint goals.
-
-## But... we work in sprints and I can't change that?
-
-- <span class="li-emoji">🫵🏻</span> <span class="li-content">Do what you can to get close to value</span>
-
-Do what you can to split out the smallest _valuable_ parts of remaining tasks, and get them as close as possible to releasable that you have the power to do every single day. Be the change you want to see.
 
 ## But... everything that's valuable will take more than a day?
 
