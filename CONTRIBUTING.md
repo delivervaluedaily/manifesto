@@ -17,7 +17,7 @@ In most cases before raising a PR it's best to start a [GitHub issue](https://gi
 
 The site at https://delivervaluedaily.dev/ is deliberately short. Links to long-form content hosted elsewhere may be added in future.
 
-If you have suggestions for links to longer form content, feel free to raise a [GitHub discurssion](https://github.com/delivervaluedaily/manifesto/discussions) or [Discord discussion](https://discord.gg/Y5SvjeFnAF).
+If you have suggestions for links to long-form content, feel free to raise a [GitHub discurssion](https://github.com/delivervaluedaily/manifesto/discussions) or [Discord discussion](https://discord.gg/Y5SvjeFnAF).
 
 ## Building "Deliver value daily" locally
 
