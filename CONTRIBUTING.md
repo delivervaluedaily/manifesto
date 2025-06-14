@@ -15,8 +15,8 @@ In most cases before raising a PR it's best to start a [GitHub issue](https://gi
 
 ## Where to make contributions
 
-- The bulk of the manifesto is in [README.md](./README.md) in markdown format, with a small amount of HTML
-- The header, footer, styles and other technical aspects of the site are in [.github/workflows/index.jinja2](.github/workflows/index.jinja2)
+- The bulk of the manifesto is in [README.md](./README.md) in Markdown format, with a small amount of HTML
+- The header, footer, styles and other technical aspects of the site are in the Jinja2 template [.github/workflows/index.jinja2](.github/workflows/index.jinja2)
 
 ## Long-form content
 
