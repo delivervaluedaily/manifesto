@@ -48,6 +48,8 @@ No! This is not about cutting corners, this is choosing the _smallest_ pieces of
 
 Do not set out to complete features as envisaged each day - this is impossible. Instead, set out to complete thin slices of them, and don't be afraid of shrinking things even further as each day progresses.
 
+This is effectively the opposite of Scrum's committment to achieving fixed sprint goals.
+
 ## But... we work in sprints and I can't change that?
 
 - <span class="li-emoji">🫵🏻</span> <span class="li-content">Do what you can to get close to value</span>
