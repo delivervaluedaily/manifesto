@@ -13,17 +13,22 @@ Particularly welcome are:
 
 In most cases before raising a PR it's best to start a [GitHub issue](https://github.com/delivervaluedaily/manifesto/issues), or discussion in either [GitHub discussions](https://github.com/delivervaluedaily/manifesto/discussions) or the ["Deliver value daily" Discord server](https://discord.gg/Y5SvjeFnAF).
 
-## Technical contributions
-
-The site at https://delivervaluedaily.dev/ is deliberately a single HTML page, with no external resources requested on load. There are no current plans to change this.
-
-See [./.github/workflows/deploy-to-github-pages.yml](./.github/workflows/deploy-to-github-pages.yml) for how the page is built - a form of this can be run locally.
-
 ## Long-form content
 
 The site at https://delivervaluedaily.dev/ is deliberately short. Links to long-form content hosted elsewhere may be added in future.
 
 If you have suggestions for links to longer form content, feel free to raise a [GitHub discurssion](https://github.com/delivervaluedaily/manifesto/discussions) or [Discord discussion](https://discord.gg/Y5SvjeFnAF).
+
+## Building "Deliver value daily" locally
+
+The site at https://delivervaluedaily.dev/ is deliberately a single HTML page, with no external resources (other than its Open Graph image, which must be a separate file).
+
+See [./.github/workflows/deploy-to-github-pages.yml](./.github/workflows/deploy-to-github-pages.yml) for how the page is built in GitHub Actions. The page can be built locally by either:
+
+- Copy and pasting individual lines into a terminal
+- Using [act](https://github.com/nektos/act), for example by `act --container-architecture linux/amd64 --job build --bind`
+
+The site is built into the `_site/` directory, and its `index.html` can be opened with a browser to view the site.
 
 ## Licensing of contributions
 

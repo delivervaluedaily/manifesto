@@ -22,10 +22,10 @@ jobs:
         python-version: '3.12'
     - name: Install Inkscape
       run: |
-        sudo add-apt-repository universe
-        sudo add-apt-repository ppa:inkscape.dev/stable
+        sudo add-apt-repository -y universe
+        sudo add-apt-repository -y ppa:inkscape.dev/stable
         sudo apt-get update
-        sudo apt install inkscape
+        sudo apt install -y inkscape
     - name: Install Jinja2 and Markdown
       run: |
         pip install jinja2-cli==0.8.2 Markdown==3.8
@@ -35,7 +35,7 @@ jobs:
         chmod +x ./minhtml
     - name: Build site
       run: |
-        mkdir _site/
+        mkdir -p _site/
         jinja2 -D content="$(python -m markdown README.md)" -D updated="$(git log -1 --pretty='format:%cD' -- README.md)" -D current_timestamp="$(date +%Y%m%d%H%M%S)" .github/workflows/index.jinja2 | ./minhtml --keep-html-and-head-opening-tags --minify-css --minify-js > _site/index.html
     - name: Build Open Graph image
       run: |
