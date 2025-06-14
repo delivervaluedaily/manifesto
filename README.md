@@ -38,7 +38,7 @@ Do not refactor or address "tech debt" without a clear idea of how it will lead 
 
 ## But... does this risk reducing quality?
 
-- <span class="li-emoji">🎩</span> <span class="li-content">Maintain standards by including time for quality</span>
+- <span class="li-emoji">💯</span> <span class="li-content">Maintain standards by including time for quality</span>
 
 No! This is not about cutting corners, this is choosing the _smallest_ pieces of work you can complete in a day that provide value at the quality level you decide is appropriate.
 
