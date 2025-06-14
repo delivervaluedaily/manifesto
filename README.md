@@ -24,9 +24,9 @@ To make this choice, you often need to be close to users - for example in direct
 
 ## But... what about [https://agilemanifesto.org/](https://agilemanifesto.org/)?
 
-- <span class="li-emoji">🧭</span> <span class="li-content">Aiming for daily value will result in following the original 12 principles</span>
+- <span class="li-emoji">🧩</span> <span class="li-content">Aiming for daily value is compatible with the original 12 principles (mostly)</span>
 
-Following this one principle will result in adhering to the 12 principles of the original Agile Manifesto - especially the principles that help deliver value in your case.
+Following this one principle will result in following the 12 principles of the original Agile Manifesto - at least the ones that help deliver value in your case. The exception is the apparent lower bound of a "couple of weeks" on how frequently working software can be delivered - we can do better than this!
 
 ## But... what about investing for the future?
 
