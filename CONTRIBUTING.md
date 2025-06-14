@@ -13,6 +13,11 @@ Particularly welcome are:
 
 In most cases before raising a PR it's best to start a [GitHub issue](https://github.com/delivervaluedaily/manifesto/issues), or discussion in either [GitHub discussions](https://github.com/delivervaluedaily/manifesto/discussions) or the ["Deliver value daily" Discord server](https://discord.gg/Y5SvjeFnAF).
 
+## Where to make contributions
+
+- The bulk of the manifesto is in [README.md](./README.md) in markdown format, with a small amount of HTML
+- The header, footer, styles and other technical aspects of the site are in [.github/workflows/index.jinja2](.github/workflows/index.jinja2)
+
 ## Long-form content
 
 The site at https://delivervaluedaily.dev/ is deliberately short. Links to long-form content hosted elsewhere may be added in future.
