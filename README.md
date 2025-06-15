@@ -42,7 +42,7 @@ Do not refactor or address "tech debt" without a clear idea of how it will lead 
 
 No! This is not about cutting corners, this is choosing the _smallest_ pieces of work you can complete in a day that provide value at the quality level you decide is appropriate.
 
-## But... we work in sprints and I can't change that?
+## But... we have a fixed release cycle and I can't change that?
 
 - <span class="li-emoji">🫵🏻</span> <span class="li-content">Do what you can to get close to value</span>
 
