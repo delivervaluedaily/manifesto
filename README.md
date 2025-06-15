@@ -71,7 +71,7 @@ You will probably build up your own project-specific suites of techniques to hel
 - <span class="li-emoji">👥</span> <span class="li-content">Work in mobs or pairs</span>
 - <span class="li-emoji">🚛</span> <span class="li-content">Maintain CI/CD pipelines</span>
 - <span class="li-emoji">📝</span> <span class="li-content">Maintain good ranges of tests</span>
-- <span class="li-emoji">🚦</span> <span class="li-content">Limit features to specific users</span>
+- <span class="li-emoji">🚦</span> <span class="li-content">Initially limit features to specific users</span>
 - <span class="li-emoji">⚙️</span> <span class="li-content">Automate, but gradually</span>
 - <span class="li-emoji">🎯</span> <span class="li-content">Make features for very specific cases</span>
 - <span class="li-emoji">🏁</span> <span class="li-content">Deploy to production on day one</span>
