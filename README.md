@@ -26,7 +26,7 @@ To make this choice, you often need to be close to users - for example in direct
 
 - <span class="li-emoji">🧩</span> <span class="li-content">Delivering value daily is compatible with the original 12 principles (mostly)</span>
 
-Following this one principle will result in following the 12 principles of the original Agile Manifesto - at least the ones that help deliver value in your case. The exception is the apparent lower bound of a "couple of weeks" on how frequently working software can be delivered - we can do better than this!
+Following this one principle will result in following the 12 principles of the original Agile Manifesto - at least the ones that help deliver value in your case. The exception is the apparent lower bound of a "couple of weeks" on how frequently working software can be delivered - we can do better!
 
 ## But... what about investing for the future?
 
