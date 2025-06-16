@@ -16,9 +16,9 @@ And of course:
 
 ## How?
 
-- <span class="li-emoji">🔬</span> <span class="li-content">Extract smaller features</span>
+- <span class="li-emoji">🔬</span> <span class="li-content">Continually extract smaller features</span>
 
-The single most important technique is to choose something _smaller_ than what is assumed to be needed, and do whatever it takes to get that useable by some real users by the end of the day. Often it will be _much_ smaller, and ideally something that would even take much less than a day so you limit the risk of not completing it within the day, and you increase the chance of delivering value multiple times in the day.
+The single most important technique is to repeatedly choose features _smaller_ than what are assumed to be needed, and make them useable by real users by the end of each day. Ideally they will be _much_ smaller, so you limit the risk of not completing them within a day, and so you increase the chance of delivering value multiple times each day.
 
 To make this choice, you often need to be close to users - for example in direct contact with them. It also requires a certain level of confidence - do what it takes to develop this if you think you're low.
 
