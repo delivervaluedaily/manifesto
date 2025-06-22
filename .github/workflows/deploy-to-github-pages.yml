@@ -43,7 +43,7 @@ jobs:
     - name: Build favicon
       run: |
         inkscape --export-area-page --export-width=144 --export-height=144 --export-type=png --export-png-antialias=3 --export-filename="./favicon.png" ./favicon.svg
-        magick favicon.png ./_site/favicon.ico
+        convert favicon.png ./_site/favicon.ico
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
 
