@@ -67,6 +67,8 @@ If you _really_ can't extract a small enough amount of work that's valuable toda
 You will probably build up your own project-specific suites of techniques to help you deliver value, but here's some to start off with:
 
 - <span class="li-emoji">🗣</span> <span class="li-content">Speak to users every day</span>
+- <span class="li-emoji">👠</span> <span class="li-content">Put yourself in their shoes</span>
+- <span class="li-emoji">🙋🏻</span> <span class="li-content">Take ownership of your changes</span>
 - <span class="li-emoji">↕️</span> <span class="li-content">Vertically slice larger pieces of work</span>
 - <span class="li-emoji">👥</span> <span class="li-content">Work in mobs or pairs</span>
 - <span class="li-emoji">🚛</span> <span class="li-content">Maintain CI/CD pipelines</span>
