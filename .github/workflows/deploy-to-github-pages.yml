@@ -20,12 +20,12 @@ jobs:
     - uses: actions/setup-python@v5
       with:
         python-version: '3.12'
-    - name: Install Inkscape
+    - name: Install Inkscape and ImageMagick
       run: |
         sudo add-apt-repository -y universe
         sudo add-apt-repository -y ppa:inkscape.dev/stable
         sudo apt-get update
-        sudo apt install -y inkscape
+        sudo apt install -y inkscape imagemagick
     - name: Install Jinja2 and Markdown
       run: |
         pip install jinja2-cli==0.8.2 Markdown==3.8
@@ -40,6 +40,9 @@ jobs:
     - name: Build Open Graph image
       run: |
         inkscape --export-area-page --export-width=1200 --export-height=630 --export-type=png --export-png-antialias=3 --export-filename="./_site/og.png" ./og.svg
+    - name: Build favicon
+        inkscape --export-area-page --export-width=144 --export-height=144 --export-type=png --export-png-antialias=3 --export-filename="./favicon.png" ./favicon.svg
+        magick favicon.png ./_site/favicon.ico
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
 
