@@ -6,7 +6,7 @@ A one-principle manifesto for agile software development
 
 By delivering value daily:
 
-- <span class="li-emoji">✅</span> <span class="li-content">You will maintain an understanding of what _value_ means for your users</span>
+- <span class="li-emoji">✅</span> <span class="li-content">You will maintain understanding of what _value_ means for your users and organisation</span>
 - <span class="li-emoji">✅</span> <span class="li-content">You will put things into place to _deliver_ that value</span>
 - <span class="li-emoji">✅</span> <span class="li-content">You will receive _daily_ feedback validating your assumptions</span>
 
