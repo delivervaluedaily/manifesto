@@ -79,7 +79,7 @@ You will probably build up your own project-specific suites of techniques to hel
 - <span class="li-emoji">🏁</span> <span class="li-content">Deploy to production on day one</span>
 - <span class="li-emoji">🔀</span> <span class="li-content">Adapt plans in order to deliver value</span>
 - <span class="li-emoji">⚛️</span> <span class="li-content">Practise atomic commits</span>
-- <span class="li-emoji">🪞</span> <span class="li-content">Regularly reflect on progress</span>
+- <span class="li-emoji">🪞</span> <span class="li-content">Regularly reflect on practices</span>
 - <span class="li-emoji">🌱</span> <span class="li-content">Refactor incrementally</span>
 - <span class="li-emoji">🕵🏻</span> <span class="li-content">Continually learn how things work</span>
 - <span class="li-emoji">🆘</span> <span class="li-content">Seek help quickly and frequently</span>
