@@ -82,7 +82,7 @@ You will probably build up your own project-specific suites of techniques to hel
 - <span class="li-emoji">⚛️</span> <span class="li-content">Practise atomic commits</span>
 - <span class="li-emoji">🪞</span> <span class="li-content">Regularly reflect on practices</span>
 - <span class="li-emoji">🌱</span> <span class="li-content">Refactor incrementally</span>
-- <span class="li-emoji">🫱🏽‍🫲🏻</span> <span class="li-content">Be confident without being arrogant</span>
+- <span class="li-emoji">🫱🏽‍🫲🏻</span> <span class="li-content">Be confident, but not arrogant</span>
 - <span class="li-emoji">📣</span> <span class="li-content">Keep and share day notes</span>
 - <span class="li-emoji">🆘</span> <span class="li-content">Seek help quickly and frequently</span>
 - <span class="li-emoji">🧠</span> <span class="li-content">Remember: some value beats no value</span>
