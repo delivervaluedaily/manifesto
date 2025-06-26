@@ -58,7 +58,7 @@ This is effectively the opposite of Scrum's committment to achieving fixed [spri
 
 ## But... surely this is impossible in complex landscapes?
 
-- <span class="li-emoji">🧭</span> <span class="li-content">Really explore the users and technology involved</span>
+- <span class="li-emoji">🧭</span> <span class="li-content">Really explore the people and technology involved</span>
 
 Complex landscapes are exactly the ones that you should spend more effort exploring, are exactly the ones where frequent feedback to validate assumptions is needed, and in many cases offer more possibilities for regularly delivering small amounts of value, not less.
 
