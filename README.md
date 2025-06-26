@@ -56,6 +56,14 @@ Do not set out to complete features as envisaged each day - this is impossible. 
 
 This is effectively the opposite of Scrum's committment to achieving fixed [sprint goals](https://www.scrum.org/resources/what-sprint-goal).
 
+## But... surely this is impossible in complex landscapes?
+
+- <span class="li-emoji">🧭</span> <span class="li-content">Really explore the users and technology involved</span>
+
+Complex landscapes are exactly the ones that you should spend more effort exploring, are exactly the ones where frequent feedback to validate assumptions is needed, and in many cases offer more possibilities for regularly delivering small amounts of value, not less.
+
+Even if you don't get to something that can be done strictly within a day every day, so much can be revealed in the attempts and if you get close.
+
 ## But... everything that's valuable will take more than a day?
 
 - <span class="li-emoji">⏩</span> <span class="li-content">If you really can't deliver value today, set yourself up for value tomorrow</span>
