@@ -58,11 +58,11 @@ This is effectively the opposite of Scrum's committment to achieving fixed [spri
 
 ## But... surely this is impossible in complex landscapes?
 
-- <span class="li-emoji">🧭</span> <span class="li-content">Really explore the people and technology involved</span>
+- <span class="li-emoji">👣</span> <span class="li-content">Take even smaller steps in complex situations</span>
 
-Complex landscapes are exactly the ones that you should spend more effort exploring, are exactly the ones where frequent feedback to validate assumptions is needed, and in many cases offer more possibilities for regularly delivering small amounts of value, not less.
+Take what might seem to be _ridiclously_ small steps in complex situations. Solve a single subset of a problem for a single user. Or perform some steps manually. Or consider solutions that don't involve code. Do the absolute smallest thing you can think of that provides a _tiny_ sliver of value. Small steps are exactly the ones that are possible in complex situations.
 
-Even if you don't get to something that can be done strictly within a day every day, so much can be revealed in the attempts and if you get close.
+If you feel silly because you think they're too small, remember it's the complex situations that need this - there are more unknowns and so early and frequent feedback is crucial. It's much sillier to spend weeks going down the wrong path than a day.
 
 ## But... everything that's valuable will take more than a day?
 
