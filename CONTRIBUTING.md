@@ -27,7 +27,7 @@ If you have suggestions for links to long-form content, feel free to raise a [Gi
 
 ## Building "Deliver value daily" locally
 
-The site at https://delivervaluedaily.dev/ is deliberately a single HTML page, with no external resources (other than its Open Graph image, which must be a separate file).
+The site at https://delivervaluedaily.dev/ is designed so that only a single HTTPS request is required to fully display the page in browsers.
 
 See [.github/workflows/deploy-to-github-pages.yml](./.github/workflows/deploy-to-github-pages.yml) for how the page is built in GitHub Actions. The page can be built locally by either:
 
