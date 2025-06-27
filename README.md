@@ -50,7 +50,7 @@ Do what you can to split out the smallest _valuable_ parts of remaining tasks, a
 
 ## But... I won't be able to keep up delivering every day?
 
-- <span class="li-emoji">🐌</span> <span class="li-content">Maintain velocity by aiming to complete only thin slices of features</span>
+- <span class="li-emoji">🐌</span> <span class="li-content">Maintain a sustainable pace by aiming to complete only thin slices of features</span>
 
 Do not set out to complete features as envisaged each day - this is impossible. Instead, set out to complete thin slices of them, and don't be afraid of shrinking things even further as each day progresses.
 
