@@ -56,6 +56,14 @@ Do not set out to complete features as envisaged each day - this is impossible. 
 
 This is effectively the opposite of Scrum's commitment to achieving fixed [sprint goals](https://www.scrum.org/resources/what-sprint-goal).
 
+## But... how can you also achieve strategic goals?
+
+- <span class="li-emoji">🧭</span> <span class="li-content">Only take steps that result in value and align with longer term goals</span>
+
+This isn't waking up each day and deciding what to do on a whim. There are often many things you _could_ do, but you should choose the ones that not only result in value by the end of the day, but the ones that get just that little bit closer to achieving longer term goals.
+
+This requires that you keep up to date with what the longer term goals are for both your immediate team and wider organisation. This is a good thing!
+
 ## But... surely this is impossible in complex landscapes?
 
 - <span class="li-emoji">👣</span> <span class="li-content">Take even smaller steps in complex landscapes</span>
