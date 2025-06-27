@@ -62,7 +62,7 @@ This is effectively the opposite of Scrum's commitment to achieving fixed [sprin
 
 This isn't waking up each day and deciding what to do on a whim. There are often many things you _could_ do, but you should choose the ones that not only result in value by the end of the day, but the ones that get you that tiny bit closer to longer term goals.
 
-This requires that you keep up to date with what the longer term goals are for both your immediate team and wider organisation. This is a good thing!
+This requires that you keep up to date with the longer term goals for both your immediate team and wider organisation. This is a good thing!
 
 ## But... surely this is impossible in complex landscapes?
 
