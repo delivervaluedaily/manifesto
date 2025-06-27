@@ -54,7 +54,7 @@ Do what you can to split out the smallest _valuable_ parts of remaining tasks, a
 
 Do not set out to complete features as envisaged each day - this is impossible. Instead, set out to complete thin slices of them, and don't be afraid of shrinking things even further as each day progresses.
 
-This is effectively the opposite of Scrum's committment to achieving fixed [sprint goals](https://www.scrum.org/resources/what-sprint-goal).
+This is effectively the opposite of Scrum's commitment to achieving fixed [sprint goals](https://www.scrum.org/resources/what-sprint-goal).
 
 ## But... surely this is impossible in complex landscapes?
 
