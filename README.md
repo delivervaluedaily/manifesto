@@ -48,7 +48,7 @@ No! This is not about cutting corners, this is choosing the _smallest_ pieces of
 
 Do what you can to split out the smallest _valuable_ parts of remaining tasks, and get them as close as possible to releasable that you have the power to do every single day. Be the change you want to see.
 
-## But... I won't be able to keep up by delivering every day?
+## But... I won't be able to keep up if delivering every day?
 
 - <span class="li-emoji">🐌</span> <span class="li-content">Maintain velocity by aiming to complete only thin slices of features</span>
 
