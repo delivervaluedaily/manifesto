@@ -62,7 +62,7 @@ This is effectively the opposite of Scrum's commitment to achieving fixed [sprin
 
 When faced with complexity take what might seem to be _ridiculously_ small steps. Solve a single subset of a problem for a single user. Or perform some steps manually. Or consider solutions that don't involve code. Do the absolute smallest thing that provides a _tiny_ sliver of value. Small steps are exactly the ones that _are_ possible in complex situations.
 
-If you feel silly because you think they're too small, remember it's the complex situations that need this - there are more unknowns and so early and frequent feedback is crucial. It's much sillier to spend weeks going down the wrong path than a day.
+If you feel silly because you think they're too small, remember it's the complex situations that need this - there are many unknowns and so early and frequent feedback is crucial. It's much sillier to spend weeks going down the wrong path than a day.
 
 ## But... everything that's valuable will take more than a day?
 
