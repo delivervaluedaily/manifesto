@@ -56,7 +56,7 @@ Do not set out to complete features as envisaged each day - this is impossible. 
 
 This is effectively the opposite of Scrum's commitment to achieving fixed [sprint goals](https://www.scrum.org/resources/what-sprint-goal).
 
-## But... how can you also achieve strategic goals?
+## But... how can I also achieve strategic goals?
 
 - <span class="li-emoji">🧭</span> <span class="li-content">Only take steps that result in value _and_ align with longer term goals</span>
 
