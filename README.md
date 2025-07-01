@@ -72,6 +72,12 @@ When faced with complexity take what might seem to be _ridiculously_ small steps
 
 If you feel silly because you think they're too small, remember it's the complex situations that need this - there are many unknowns and so early and frequent feedback is crucial. It's much sillier to spend weeks going down the wrong path than a day.
 
+## But... don't you need AI to do this?
+
+- <span class="li-emoji">🤖</span> <span class="li-content">Use AI only if appropriate in your case</span>
+
+This absolutely does not require AI to generate code. This is not about outputting _more_ code every day, it's about _choosing_ what you do every day in a very particular way - to provide value, to get feedback, to understand that feedback and be able to respond to it. If AI helps you do this, if it's appropriate and allowed in your field, and if you understand and can accept the short and long term risks, then use AI. If not, don't.
+
 ## But... everything that's valuable will take more than a day?
 
 - <span class="li-emoji">⏩</span> <span class="li-content">If you really can't deliver value today, set yourself up for value tomorrow</span>
