@@ -112,5 +112,7 @@ You will probably build up your own project-specific suites of techniques to hel
 - <span class="li-emoji">🧪</span> <span class="li-content">Experiment (safely)</span>
 - <span class="li-emoji">🔋</span> <span class="li-content">Monitor infrastructure performance</span>
 - <span class="li-emoji">❤️‍🩹</span> <span class="li-content">Explore user pain points</span>
+- <span class="li-emoji">↔️</span> <span class="li-content">Horizontally scale only when needed</span>
+- <span class="li-emoji">♻️</span> <span class="li-content">Leverage existing resources</span>
 - <span class="li-emoji">🆘</span> <span class="li-content">Seek help quickly and frequently</span>
 - <span class="li-emoji">🧠</span> <span class="li-content">Remember: some value beats no value</span>
