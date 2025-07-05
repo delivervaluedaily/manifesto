@@ -108,5 +108,7 @@ You will probably build up your own project-specific suites of techniques to hel
 - <span class="li-emoji">📣</span> <span class="li-content">Write and share day notes</span>
 - <span class="li-emoji">🎨</span> <span class="li-content">Develop your creativity</span>
 - <span class="li-emoji">🛡</span> <span class="li-content">Encourage psychological safety</span>
+- <span class="li-emoji">👨🏻‍💻</span> <span class="li-content">Read the docs and the source</span>
+- <span class="li-emoji">🧪</span> <span class="li-content">Experiment (safely)</span>
 - <span class="li-emoji">🆘</span> <span class="li-content">Seek help quickly and frequently</span>
 - <span class="li-emoji">🧠</span> <span class="li-content">Remember: some value beats no value</span>
