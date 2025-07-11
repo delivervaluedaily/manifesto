@@ -37,9 +37,10 @@ jobs:
       run: |
         mkdir -p _site/
         jinja2 -D content="$(python -m markdown README.md)" -D updated="$(git log -1 --pretty='format:%cD' -- README.md)" -D current_timestamp="$(date +%Y%m%d%H%M%S)" ./index.jinja | ./minhtml --keep-html-and-head-opening-tags --minify-css --minify-js > _site/index.html
-    - name: Build Open Graph image
+    - name: Build Open Graph images
       run: |
-        inkscape --export-area-page --export-width=1200 --export-height=630 --export-type=png --export-png-antialias=3 --export-filename="./_site/og.png" ./og.svg
+        inkscape --export-area-page --export-width=1200 --export-height=630 --export-type=png --export-png-antialias=3 --export-filename="./_site/og-landscape.png" ./og-landscape.svg
+        inkscape --export-area-page --export-width=1200 --export-height=1200 --export-type=png --export-png-antialias=3 --export-filename="./_site/og-square.png" ./og-square.svg
     - name: Build favicon
       run: |
         inkscape --export-area-page --export-width=144 --export-height=144 --export-type=png --export-png-antialias=3 --export-filename="./favicon.png" ./favicon.svg
