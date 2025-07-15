@@ -104,13 +104,13 @@ You will probably build up your own project-specific suites of techniques to hel
 - <span class="li-emoji">⚛️</span> <span class="li-content">Extract and deploy atomic commits</span>
 - <span class="li-emoji">🪞</span> <span class="li-content">Regularly reflect on practices</span>
 - <span class="li-emoji">🌱</span> <span class="li-content">Refactor incrementally</span>
-- <span class="li-emoji">🤷🏻‍♀️</span> <span class="li-content">Candidly admit your ignorance</span>
+- <span class="li-emoji">🤷🏻‍♂️</span> <span class="li-content">Candidly admit your ignorance</span>
 - <span class="li-emoji">🤔</span> <span class="li-content">Self-review code before asking others</span>
 - <span class="li-emoji">🫱🏽‍🫲🏻</span> <span class="li-content">Be confident, but not arrogant</span>
 - <span class="li-emoji">📣</span> <span class="li-content">Write and share day notes</span>
 - <span class="li-emoji">🎨</span> <span class="li-content">Develop your creativity</span>
 - <span class="li-emoji">🛡</span> <span class="li-content">Encourage psychological safety</span>
-- <span class="li-emoji">👨🏻‍💻</span> <span class="li-content">Read the docs and the source</span>
+- <span class="li-emoji">👩🏻‍💻</span> <span class="li-content">Read the docs and the source</span>
 - <span class="li-emoji">❤️‍🩹</span> <span class="li-content">Explore user pain points</span>
 - <span class="li-emoji">🔋</span> <span class="li-content">Monitor infrastructure utilisation</span>
 - <span class="li-emoji">🧪</span> <span class="li-content">Experiment (safely)</span>
