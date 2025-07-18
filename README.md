@@ -84,6 +84,12 @@ This absolutely does not require AI to generate code. This is not about outputti
 
 If you _really_ can't extract a small enough amount of work that's valuable today, is there anything that you can complete today that can set you up for delivering value tomorrow? Often something that gets feedback on your riskiest assumptions from users or technology is a good choice.
 
+## But... what if I think I can deliver, but I don't?
+
+- <span class="li-emoji">🙏🏾</span> <span class="li-content">Don't worry if there are days you don't manage to deliver value</span>
+
+"Deliver value daily" is a principle, not a contract. There are benefits of just aiming to achieve it, so if there are days where you don't manage to deliver value, then the only consequence is... you don't manage to deliver value. The next day, have a quick think on the best next steps to take based on what you've learnt, and then take them.
+
 ## What other techniques can help deliver value every single day?
 
 You will probably build up your own project-specific suites of techniques to help you deliver value, but here's some to start off with:
