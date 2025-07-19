@@ -82,7 +82,7 @@ This absolutely does not require AI to generate code. This is not about outputti
 
 - <span class="li-emoji">⏭️</span> <span class="li-content">If you really can't deliver value today, set yourself up for value tomorrow</span>
 
-If you _really_ can't extract a small enough amount of work that's valuable today, is there anything that you can complete today that can set you up for delivering value tomorrow? Often something that gets feedback on your riskiest assumptions from users or technology is a good choice.
+If you _really_ can't extract a small enough amount of work that's valuable today, is there anything that you can complete today that can set you up for delivering value tomorrow? Tasks that reduce the scope of the remaining problem or result in feedback on your riskiest assumptions from users or technology are often good choices.
 
 ## But... what if I thought I could deliver, but in fact I couldn't?
 
