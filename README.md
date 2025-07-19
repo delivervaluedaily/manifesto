@@ -36,7 +36,7 @@ If refactoring allows you to deliver identified value: absolutely do it.
 
 But if changes that are more about the pace or experience of delivering value in the future, also do them, but just not whole days at a time - at least _some_ of each day should result in delivering value. By following the principle you will balance delivering value today with investing for delivering more value tomorrow.
 
-Never refactor or address "tech debt" without a clear idea of how it will lead to value.
+_Never_ refactor or address "tech debt" without a clear idea of how it will lead to value.
 
 ## But... does this risk reducing quality?
 
