@@ -28,13 +28,15 @@ To make this choice, you often need to be close to users - for example in direct
 
 Following this one principle will result in following the 12 principles of the original Agile Manifesto - at least the ones that help deliver value in your case. A definite exception is the apparent lower bound of a "couple of weeks" on how frequently working software can be delivered - we can do better!
 
-## But... what about investing for the future?
+## But... what about refactoring or developer experience?
 
-- <span class="li-emoji">⚖️</span> <span class="li-content">Balance value today with investing for tomorrow</span>
+- <span class="li-emoji">⚖️</span> <span class="li-content">Balance delivery with improving developer experience</span>
 
-You can do tasks that don't result in value today, but just not whole days at a time - at least _some_ of each day should result in delivering value. By following the principle you will balance delivering value today with investing for more value tomorrow.
+If refactoring allows you to deliver identified value: absolutely do it.
 
-Do not refactor or address "tech debt" without a clear idea of how it will lead to value, and merge and release such investment changes daily, just as you would any other. And of course, if something repeatedly doesn't lead to value, you should consider not doing it.
+But if changes that are more about the pace or experience of delivering value in the future, also do them, but just not whole days at a time - at least _some_ of each day should result in delivering value. By following the principle you will balance delivering value today with investing for delivering more value tomorrow.
+
+Never refactor or address "tech debt" without a clear idea of how it will lead to value.
 
 ## But... does this risk reducing quality?
 
