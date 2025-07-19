@@ -34,7 +34,7 @@ Following this one principle will result in following the 12 principles of the o
 
 If refactoring allows you to deliver identified value: absolutely do it.
 
-But on making changes are more about the pace or experience of delivering value in the future, also do it, but just not whole days at a time - at least _some_ of each day should result in delivering value. By following the principle you will balance delivering value today with investing for delivering more value tomorrow.
+But on making changes more about the pace or experience of delivering value in the future, also do it, but just not whole days at a time - at least _some_ of each day should result in delivering value. By following the principle you will balance delivering value today with investing for delivering more value tomorrow.
 
 _Never_ refactor or address "tech debt" without a clear idea of how it will lead to value.
 
