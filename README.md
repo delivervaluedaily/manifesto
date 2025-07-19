@@ -48,7 +48,7 @@ No! This is not about cutting corners, this is choosing the _smallest_ pieces of
 
 - <span class="li-emoji">🫵🏻</span> <span class="li-content">Do what you can to get close to value</span>
 
-Do what you can to split out the smallest _valuable_ parts of remaining tasks, and get them as close as possible to releasable that you have the power to do every single day. In many cases this still results in feedback that informs next steps.
+Do what you can to split out the smallest _valuable_ parts of remaining tasks, and get them as close as possible to releasable that you have the power to do every single day. In many cases this still results in useful feedback that informs next steps.
 
 ## But... I won't be able to keep up delivering every day?
 
