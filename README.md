@@ -16,7 +16,7 @@ And of course:
 
 ## How?
 
-- <span class="li-emoji">🔬</span> <span class="li-content">Continually extract smaller features</span>
+- <span class="li-emoji">🔬</span> <span class="li-content">Continually extract and deliver smaller features</span>
 
 The single most important technique is to repeatedly choose features _smaller_ than what are assumed to be needed, and make them useable by real users by the end of each day. Ideally they will be _much_ smaller, so you limit the risk of not completing them within a day, and so you increase the chance of delivering value multiple times each day.
 
