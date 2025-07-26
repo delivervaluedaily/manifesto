@@ -131,7 +131,7 @@ You will probably build up your own project-specific suites of techniques to hel
 - <span class="li-emoji">↔️</span> <span class="li-content">Horizontally scale only when needed</span>
 - <span class="li-emoji">♻️</span> <span class="li-content">Leverage existing resources</span>
 - <span class="li-emoji">🔒</span> <span class="li-content">Up-front (at least) basic security</span>
-- <span class="li-emoji">🕰️</span> <span class="li-content">Consider long term consequences</span>
+- <span class="li-emoji">🔮</span> <span class="li-content">Balance value now with future flexibility</span>
 - <span class="li-emoji">🔕</span> <span class="li-content">Limit your interruptions</span>
 - <span class="li-emoji">🪶</span> <span class="li-content">Rarely add features just in case</span>
 - <span class="li-emoji">🆘</span> <span class="li-content">Seek help quickly and frequently</span>
