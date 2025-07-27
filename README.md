@@ -117,7 +117,7 @@ You will probably build up your own project-specific suites of techniques to hel
 - <span class="li-emoji">🔀</span> <span class="li-content">Adapt plans in order to deliver value</span>
 - <span class="li-emoji">⚛️</span> <span class="li-content">Extract and deploy atomic commits</span>
 - <span class="li-emoji">🚧</span> <span class="li-content">Raise (draft) PRs early</span>
-- <span class="li-emoji">🔜</span> <span class="li-content">Do not have stand ups</span>
+- <span class="li-emoji">🔜</span> <span class="li-content">Do not wait for (or have) stand ups</span>
 - <span class="li-emoji">🪞</span> <span class="li-content">Regularly reflect on practices</span>
 - <span class="li-emoji">🌱</span> <span class="li-content">Refactor incrementally</span>
 - <span class="li-emoji">🤷🏻‍♂️</span> <span class="li-content">Candidly admit your ignorance</span>
