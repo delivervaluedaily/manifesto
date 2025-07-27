@@ -44,7 +44,7 @@ _Never_ refactor or address "tech debt" without being sure the changes lead to v
 
 No! This is not about cutting corners, this is choosing the _smallest_ pieces of work you can complete in a day that provide value at the quality level you decide is appropriate.
 
-Remember, the reduction of risk and other "non functional" requirements are often valuable. And users' views are important, but they are not paramount - balance them against your own judgement.
+And remember, the reduction of risk and other "non functional" requirements are often valuable, and while users's views are important, your own judgement is too.
 
 ## But... we have a fixed release cycle and I can't change that?
 
