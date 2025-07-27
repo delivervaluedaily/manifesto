@@ -96,7 +96,7 @@ If you _really_ can't extract a small enough amount of work that's valuable toda
 
 ## But... isn't this another stick to beat developers with?
 
-- <span class="li-emoji">👨🏾‍💻👩🏼‍💻🧑🏻‍💻</span> <span class="li-content">This is for developers to choose, not managers to enforce</span>
+- <span class="li-emoji">👨🏾‍💻👩🏼‍💻🧑🏻‍💻</span> <span class="li-content">This is for developers to practise, not managers to enforce</span>
 
 "Deliver value daily" encourages you to understand the real problems so you solve them appropriately. While it can help with reporting progress, it needs autonomy, trust, and a psychologically safe environment. Things like working in sprints, estimating, and regularly answering "What did you do yesterday?" should only be done if your team finds them useful, and never be dictated from above.
 
