@@ -130,7 +130,7 @@ You will probably build up your own project-specific suites of techniques to hel
 - <span class="li-emoji">❤️‍🩹</span> <span class="li-content">Explore user pain points</span>
 - <span class="li-emoji">🌟</span> <span class="li-content">Be a bit ambitious</span>
 - <span class="li-emoji">⏳️</span> <span class="li-content">Treat each day as the last of the project</span>
-- <span class="li-emoji">🔋</span> <span class="li-content">Monitor infrastructure utilisation</span>
+- <span class="li-emoji">♟️</span> <span class="li-content">Plan, but with low granularity</span>
 - <span class="li-emoji">🧪</span> <span class="li-content">Experiment (safely)</span>
 - <span class="li-emoji">📖</span> <span class="li-content">Write usage docs before the code</span>
 - <span class="li-emoji">🧰</span> <span class="li-content">Recognise and apply your existing skills</span>
