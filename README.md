@@ -86,7 +86,7 @@ This absolutely does not require AI to generate code. This is not about outputti
 
 If you _really_ can't extract a small enough amount of work that's valuable today, is there anything that you can complete today that can set you up for delivering value tomorrow? Tasks that reduce the scope of the remaining problem or get feedback on your riskiest assumptions from users or technology are often good choices.
 
-## But... what if I thought I could deliver, but in fact I couldn't?
+## But... what if I tried to deliver, but in fact I couldn't?
 
 - <span class="li-emoji">🌅</span> <span class="li-content">Don't worry if there are days you don't manage to deliver value</span>
 
