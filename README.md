@@ -92,6 +92,12 @@ If you _really_ can't extract a small enough amount of work that's valuable toda
 
 "Deliver value daily" is a principle, not a contract. There are benefits of just aiming to achieve it, so if there are days where you don't manage to deliver value, then the only consequence is... you don't manage to deliver value. The next day, have a quick think on the best next steps to take based on what you've learnt, and then take them.
 
+## But... is this another stick to beat developers with?
+
+- <span class="li-emoji">👨🏾‍💻👩🏼‍💻🧑🏻‍💻</span> <span class="li-content">This is for developers, not managers</span>
+
+"Deliver value daily" enourages you to understand the real problems so you solve them appropriately. While it can help with reporting progress, it needs autonomy, trust, and a psycologically safe environment. Things like working in sprints, estimating, and regularly answering "What did you do yesterday?" should only be done if your team finds them useful, and never be dictated from above.
+
 ## What other techniques can help deliver value every single day?
 
 You will probably build up your own project-specific suites of techniques to help you deliver value, but here's some to start off with:
