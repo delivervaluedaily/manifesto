@@ -124,7 +124,7 @@ You will probably build up your own project-specific suites of techniques to hel
 - <span class="li-emoji">🤔</span> <span class="li-content">Self-review code before asking others</span>
 - <span class="li-emoji">🫱🏽‍🫲🏻</span> <span class="li-content">Be confident, but not arrogant</span>
 - <span class="li-emoji">📣</span> <span class="li-content">Write and share day notes</span>
-- <span class="li-emoji">🎨</span> <span class="li-content">Develop your creativity</span>
+- <span class="li-emoji">🎨</span> <span class="li-content">Develop your creativity and vision</span>
 - <span class="li-emoji">🛡</span> <span class="li-content">Encourage psychological safety</span>
 - <span class="li-emoji">📚</span> <span class="li-content">Read the docs, source, and errors</span>
 - <span class="li-emoji">❤️‍🩹</span> <span class="li-content">Explore user pain points</span>
