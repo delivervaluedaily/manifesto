@@ -18,7 +18,7 @@ And of course:
 
 - <span class="li-emoji">🔬</span> <span class="li-content">Continually extract and deliver smaller features</span>
 
-The single most important technique is to repeatedly choose features _smaller_ than what are assumed to be needed, and make them useable by real users by the end of each day. Ideally they will be _much_ smaller, so you limit the risk of not completing them within a day, and so you increase the chance of delivering value multiple times each day.
+The single most important technique is to repeatedly choose features _smaller_ than what are assumed to be needed, and make them usable by real users by the end of each day. Ideally they will be _much_ smaller, so you limit the risk of not completing them within a day, and so you increase the chance of delivering value multiple times each day.
 
 To make this choice, you often need to be close to users - for example in direct contact with them. It also requires a certain level of confidence - do what it takes to develop this if you think you're low.
 
@@ -96,7 +96,7 @@ If you _really_ can't extract a small enough amount of work that's valuable toda
 
 - <span class="li-emoji">👨🏾‍💻👩🏼‍💻🧑🏻‍💻</span> <span class="li-content">This is for developers, not managers</span>
 
-"Deliver value daily" enourages you to understand the real problems so you solve them appropriately. While it can help with reporting progress, it needs autonomy, trust, and a psycologically safe environment. Things like working in sprints, estimating, and regularly answering "What did you do yesterday?" should only be done if your team finds them useful, and never be dictated from above.
+"Deliver value daily" encourages you to understand the real problems so you solve them appropriately. While it can help with reporting progress, it needs autonomy, trust, and a psychologically safe environment. Things like working in sprints, estimating, and regularly answering "What did you do yesterday?" should only be done if your team finds them useful, and never be dictated from above.
 
 ## What other techniques can help deliver value every single day?
 
