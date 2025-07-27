@@ -90,7 +90,7 @@ If you _really_ can't extract a small enough amount of work that's valuable toda
 
 - <span class="li-emoji">🌅</span> <span class="li-content">Don't worry if there are days you don't manage to deliver value</span>
 
-"Deliver value daily" is a principle, not a contract. There are benefits of just aiming to achieve it, so if there are days where you don't manage to deliver value, then the only consequence is... you don't manage to deliver value. The next day, have a quick think on the best next steps to take based on what you've learnt, and then take them.
+"Deliver value daily" is a principle, not a contract. There are benefits of just aiming to achieve it, so if there are days where you don't manage to deliver value, then the only consequence is... you don't manage to deliver value those days. The next day, have a quick think on the best next steps to take based on what you've learnt, and then take them.
 
 ## But... is this another stick to beat developers with?
 
