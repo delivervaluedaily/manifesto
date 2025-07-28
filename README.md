@@ -38,7 +38,7 @@ But on tasks that are more about improving pace or experience of delivering valu
 
 _Never_ refactor or address "tech debt" without being sure the changes lead to value.
 
-## But... does this risk reducing quality?
+## But... does this reduce quality?
 
 - <span class="li-emoji">💯</span> <span class="li-content">Maintain standards by including time for quality</span>
 
