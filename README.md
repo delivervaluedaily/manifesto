@@ -94,7 +94,7 @@ If you _really_ can't extract a small enough amount of work that's valuable toda
 
 Some situations do warrant spending time doing R&D or planning up front. But they should also be done with a "Deliver value daily" approach, and should focus on derisking later phases and empowering them to act on feedback.
 
-In other words, having a value chain and delivering value to the next step is acceptable if value moves through the chain frequently and allows for flexibility within subsequent steps.
+Put another way: having a value chain and delivering value to the next step is acceptable if value moves through the chain frequently and allows for flexibility within subsequent steps.
 
 ## But... what if I try to deliver, but in fact I can't?
 
