@@ -88,6 +88,13 @@ This absolutely does not require AI to generate code. This is not about outputti
 
 If you _really_ can't extract a small enough amount of work that's valuable today, is there anything that you can complete today that can set you up for delivering value tomorrow? Tasks that reduce the scope of the remaining problem or get feedback on your riskiest assumptions from users or technology are often good choices.
 
+
+## But... does this mean we can't have R&D or planning phases?
+
+- <span class="li-emoji">🗺</span> <span class="li-content">If it makes sense, do initial research, design, and planning</span>
+
+Some situations do warrant spending time doing R&D or planning up front. But these should themselves be done with a "Deliver value daily" approach, and should focus on derisking later phases, and allow for future discovery, flexibility, and iteration to avoid the perils of waterfall.
+
 ## But... what if I try to deliver, but in fact I can't?
 
 - <span class="li-emoji">🌅</span> <span class="li-content">Don't worry if there are days you don't manage to deliver value</span>
