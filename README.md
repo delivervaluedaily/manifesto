@@ -94,7 +94,7 @@ Put another way: having a value chain is acceptable if value can move through th
 
 - <span class="li-emoji">⏭️</span> <span class="li-content">If you really can't deliver value today, set yourself up for value tomorrow</span>
 
-If you _really_ can't extract a small enough amount of work that's valuable today, is there anything that you can complete today that can set you up for delivering value tomorrow? Tasks that reduce the scope of the remaining problem or get feedback on your riskiest assumptions from users or technology are often good choices.
+If you _really_ can't extract a small enough amount of work that's externally valuable today, is there anything that you can complete today that can set you up for delivering value tomorrow? Tasks that reduce the scope of the remaining problem or get feedback on your riskiest assumptions from users or technology are often good choices.
 
 You can think of this as an emphemeral value chain: delivering value to yourself.
 
