@@ -100,7 +100,7 @@ Put another way: having a value chain is acceptable if value can move through th
 
 - <span class="li-emoji">🌅</span> <span class="li-content">Don't worry if there are days you don't manage to deliver value</span>
 
-"Deliver value daily" is a principle, not a contract. There are benefits of just aiming to achieve it, so if you don't manage to deliver value some day, then the only consequence is... you don't manage to deliver value. The next day, have a quick think on the best next steps to take based on what you've learnt, and then take them.
+"Deliver value daily" is a principle, not a contract. There are benefits of just aiming to achieve it, so if you don't manage to deliver value some day, then the only consequence is... you don't manage to deliver value that day. The next day, have a quick think on the best next steps to take based on what you've learnt, and then take them.
 
 ## But... isn't this another stick to beat developers with?
 
