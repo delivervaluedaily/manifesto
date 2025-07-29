@@ -82,12 +82,6 @@ If you feel silly because you think they're too small, remember it's the complex
 
 This absolutely does not require AI to generate code. This is not about outputting _more_ code every day, it's about _choosing_ what you do every day in a very particular way - to provide value, to get feedback, to understand that feedback and be able to respond to it. If AI helps you do this, if it's appropriate and allowed in your field, and if you understand and can accept the short and long term risks, then use AI. If not, don't.
 
-## But... everything that's valuable will take more than a day?
-
-- <span class="li-emoji">⏭️</span> <span class="li-content">If you really can't deliver value today, set yourself up for value tomorrow</span>
-
-If you _really_ can't extract a small enough amount of work that's valuable today, is there anything that you can complete today that can set you up for delivering value tomorrow? Tasks that reduce the scope of the remaining problem or get feedback on your riskiest assumptions from users or technology are often good choices.
-
 ## But... does this mean we can't have R&D or planning phases?
 
 - <span class="li-emoji">🔗</span> <span class="li-content">If it makes sense, do initial research, design, and planning</span>
@@ -95,6 +89,14 @@ If you _really_ can't extract a small enough amount of work that's valuable toda
 Some situations do warrant spending time doing R&D or planning up front. But in many cases they should also be done using a "deliver value daily" approach, and should focus on derisking later phases and empowering them to act on feedback.
 
 Put another way: having a value chain is acceptable if value can move through the chain frequently and it enables flexibility within subsequent steps.
+
+## But... everything that's valuable will take more than a day?
+
+- <span class="li-emoji">⏭️</span> <span class="li-content">If you really can't deliver value today, set yourself up for value tomorrow</span>
+
+If you _really_ can't extract a small enough amount of work that's valuable today, is there anything that you can complete today that can set you up for delivering value tomorrow? Tasks that reduce the scope of the remaining problem or get feedback on your riskiest assumptions from users or technology are often good choices.
+
+You can think of this as an emphemeral value chain: delivering value to yourself.
 
 ## But... what if I try to deliver, but in fact I can't?
 
