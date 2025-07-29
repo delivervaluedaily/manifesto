@@ -88,7 +88,7 @@ This absolutely does not require AI to generate code. This is not about outputti
 
 Some situations do warrant spending time doing R&D or planning up front. But in many cases they should also be done using a "deliver value daily" approach, and should focus on derisking later phases and empowering them to act on feedback.
 
-Put another way: having a value chain is acceptable if value can move through the chain frequently and it enables flexibility within subsequent steps.
+Put another way: a value chain is acceptable if value can move through the chain frequently and it enables flexibility within subsequent steps.
 
 ## But... everything that's valuable will take more than a day?
 
