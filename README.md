@@ -96,7 +96,7 @@ Put another way: a value chain is acceptable if value can move through the chain
 
 If you _really_ can't extract a small enough amount of work that's externally valuable today, is there anything that you can complete today that can set you up for delivering value tomorrow? Tasks that reduce the scope of the remaining problem or get feedback on your riskiest assumptions from users or technology are often good choices.
 
-You can think of this as an emphemeral value chain where you deliver value to yourself.
+You can think of this as an ephemeral value chain where you deliver value to yourself.
 
 ## But... what if I try to deliver, but in fact I can't?
 
