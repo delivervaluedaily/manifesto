@@ -146,7 +146,7 @@ You will probably build up your own project-specific suites of techniques to hel
 - <span class="li-emoji">⏳️</span> <span class="li-content">Treat each day as the last of the project</span>
 - <span class="li-emoji">♟️</span> <span class="li-content">Plan, but usually with low granularity</span>
 - <span class="li-emoji">🧪</span> <span class="li-content">Experiment (safely)</span>
-- <span class="li-emoji">🪂</span> <span class="li-content">Occasionally rake a leap</span>
+- <span class="li-emoji">🪂</span> <span class="li-content">Occasionally take a leap</span>
 - <span class="li-emoji">🦋</span> <span class="li-content">Decide next steps on the day</span>
 - <span class="li-emoji">✍🏻</span> <span class="li-content">Write usage docs before the code</span>
 - <span class="li-emoji">🧰</span> <span class="li-content">Recognise and apply your existing skills</span>
