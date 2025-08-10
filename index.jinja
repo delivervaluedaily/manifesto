@@ -79,11 +79,17 @@
       }
     </style>
     <style>
+      /* iOS Safari doesn't support fixed background, so we work around with fixed position element */
+      .background {
+        position: fixed;
+        z-index: -1;
+        height: 100%;
+        width: 100%;
+        background: linear-gradient(45deg, #fabb02 0%, #ffe645 100%);
+      }
       body {
         /* Geometric Humanist from https://modernfontstacks.com/ */
         font-family: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
-        background: linear-gradient(45deg, #fabb02 0%, #ffe645 100%);
-        background-attachment: fixed;
         color: #0b0c0c;
       }
       main,
@@ -199,6 +205,7 @@
     </style>
   </head>
   <body>
+    <div class="background"></div>
     <main>
         <span class="logo">🌤</span>
         {{ content|safe }}
