@@ -64,7 +64,7 @@ This is effectively the opposite of Scrum's commitment to achieving fixed [sprin
 
 - <span class="li-emoji">🧭</span> <span class="li-content">Only take steps that result in value _and_ align with longer term goals</span>
 
-This isn't waking up each day and just firefighting or deciding what to do on a whim. There are often many things you _could_ do, but you should choose the ones that not only result in value by the end of the day, but the ones that also get you closer to longer term goals.
+This isn't waking up each day and deciding what to do on a whim or avoiding working on big projects. Of all the things you _could_ do, you should choose the ones that result in value by the end of the day _and_ get you closer to longer term goals.
 
 This requires that you keep up to date with the longer term goals for both your immediate team and wider organisation. This is a good thing!
 
