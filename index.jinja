@@ -84,6 +84,8 @@
         position: fixed;
         z-index: -1;
         height: 100lvh;
+        /* iOS Safari doesn't seem to properly support lvh units */
+        min-height: -webkit-fill-available;
         width: 100lvw;
         background: linear-gradient(45deg, #fabb02 0%, #ffe645 100%);
       }
