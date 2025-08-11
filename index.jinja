@@ -83,15 +83,20 @@
       .background {
         position: fixed;
         z-index: -1;
-        width: 100%;
-        top: 0;
-        bottom: 0;
+        width: 100lvw;
+        height: 100lvh;
         background: linear-gradient(45deg, #fabb02 0%, #ffe645 100%);
       }
       body {
         /* Geometric Humanist from https://modernfontstacks.com/ */
         font-family: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
         color: #0b0c0c;
+      }
+      html {
+        /* For when scrolling up on iOS, 100vh isn't big enough and html background leaks through */
+        background: linear-gradient(90deg, #fabb02 0%, #fdd124 100%);
+        /* Makes top and bottom of the iOS/browser interface orange */
+        background-color: #fabb02;
       }
       main,
       footer {
