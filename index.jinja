@@ -79,18 +79,19 @@
       }
     </style>
     <style>
-      /* iOS Safari doesn't support fixed background, so we work around with fixed position element */
-      .background {
+      body {
+        /* Geometric Humanist from https://modernfontstacks.com/ */
+        font-family: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
+        color: #0b0c0c;
+      }
+      /* iOS Safari doesn't support fixed background, so we work around with fixed position pseudo-element */
+      body::before {
+        content: '';
         position: fixed;
         z-index: -1;
         width: 100lvw;
         height: 100lvh;
         background: linear-gradient(45deg, #fabb02 0%, #ffe645 100%);
-      }
-      body {
-        /* Geometric Humanist from https://modernfontstacks.com/ */
-        font-family: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
-        color: #0b0c0c;
       }
       /* For when scrolling down on iOS, 100lvh (in spite of its definition) isn't big enough
          and html background leaks through. This is a best attempt at making the html background
@@ -220,7 +221,6 @@
     </style>
   </head>
   <body>
-    <div class="background"></div>
     <main>
         <span class="logo">🌤</span>
         {{ content|safe }}
