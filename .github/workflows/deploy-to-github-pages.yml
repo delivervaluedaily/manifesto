@@ -42,8 +42,8 @@ jobs:
         inkscape --export-area-page --export-width=1200 --export-height=630 --export-type=png --export-png-antialias=3 --export-filename="./_site/og.png" ./og.svg
     - name: Build favicon
       run: |
-        inkscape --export-area-page --export-width=32 --export-height=32 --export-type=png --export-png-antialias=3 --export-filename="./favicon.png" ./favicon.svg
-        convert favicon.png ./_site/favicon.ico
+        inkscape --export-area-page --export-width=144 --export-height=144 --export-type=png --export-png-antialias=3 --export-filename="./_site/favicon.png" ./favicon.svg
+        magick ./_site/favicon.png -define icon:auto-resize=48,32,16 ./_site/favicon.ico
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
 
